@@ -1,0 +1,7 @@
+===== SISTEMA DE INVENTARIO =====
+1. Añadir producto
+2. Eliminar producto
+3. Actualizar producto
+4. Buscar producto
+5. Listar inventario
+6. Salir
