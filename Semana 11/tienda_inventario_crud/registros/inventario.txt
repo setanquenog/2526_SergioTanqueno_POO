@@ -1,0 +1,5 @@
+1,pantalón,10,15.0
+2,camisa,15,10.0
+3,zapatos,10,40.0
+4,medias,15,2.0
+5,chompa,10,20.0

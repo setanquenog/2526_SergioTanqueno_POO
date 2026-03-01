@@ -1,0 +1,17 @@
+=== SISTEMA INICIADO ===
+=== SISTEMA INICIADO ===
+Opción seleccionada: 1
+Producto agregado: 1
+Opción seleccionada: 1
+Producto agregado: 2
+
+=== SISTEMA INICIADO ===
+Opción seleccionada: 1
+Producto agregado: 3
+=== SISTEMA INICIADO ===
+Opción seleccionada: 1
+Producto agregado: 4
+=== SISTEMA INICIADO ===
+=== SISTEMA INICIADO ===
+Opción seleccionada: 1
+Producto agregado: 5
